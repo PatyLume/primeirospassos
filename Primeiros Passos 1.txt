@@ -1,0 +1,3 @@
+Criamos uma chave no SSH no github e vinculamos aa  maquina vurtual. Em seguida, criamos um repositorio no github que ainda esta vazio, ele existe apenas no github.
+t. No computador criamos a pasta PRIMEIROS PASSOS e dentro da pasta demoso comando do git init. Agoara tem o git no computador e no github. Falta os dois se comunicarem.
+Para concluir digitamos o comando git remote add origin "link do repositorio". Agora vamos salvar e enviar para o github.
